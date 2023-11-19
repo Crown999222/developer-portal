@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='1920' height='3' viewBox='0 0 1920 3' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<path d='M127.993 1.5H1792.01' stroke='url(#paint0_linear_2737_6629)' stroke-linecap='round'/>
+<defs>
+<linearGradient id='paint0_linear_2737_6629' x1='1792.01' y1='2.5' x2='172.664' y2='-266.959' gradientUnits='userSpaceOnUse'>
+<stop stop-color='#DADBDD' stop-opacity='0'/>
+<stop offset='0.123257' stop-color='#DADBDD' stop-opacity='0.5'/>
+<stop offset='0.519097' stop-color='#DADBDD'/>
+<stop offset='0.878479' stop-color='#DADBDD' stop-opacity='0.5'/>
+<stop offset='1' stop-color='#DADBDD' stop-opacity='0'/>
+</linearGradient>
+</defs>
+</svg>
